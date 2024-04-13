@@ -12,7 +12,8 @@ public class App {
         boolean isValid = false;
         int option = 0;
 
-        System.out.println("Hi! Welcome to the best bubble sort program ever! Please choose the option you'd prefer to begin");
+        System.out.println();
+        System.out.println("Hi! Welcome to the best bubble sort program ever! Please choose the option you'd prefer to begin with");
         System.out.println("Enter 1 to generate a random array of your desired size");
         System.out.println("Enter 2 to sort an existing file of numbers");
 
